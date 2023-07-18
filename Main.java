@@ -1,3 +1,6 @@
+//Conversion Central
+//Code by Jessica D. Wrzesien
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
